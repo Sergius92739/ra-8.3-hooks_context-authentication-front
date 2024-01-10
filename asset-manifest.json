@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ra-8.3-hooks_context-authentication-front/static/css/main.0d5352e6.css",
+    "main.js": "/ra-8.3-hooks_context-authentication-front/static/js/main.4292b1d0.js",
+    "static/js/787.1ae3fd3c.chunk.js": "/ra-8.3-hooks_context-authentication-front/static/js/787.1ae3fd3c.chunk.js",
+    "static/media/Roboto-Bold.svg": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Bold.541cb3422a94c6b7e915.svg",
+    "static/media/Roboto-Medium.svg": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Medium.8c796214ef31c8ed26f7.svg",
+    "static/media/Roboto-Regular.svg": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Regular.527dfaa48fd1b09fffcf.svg",
+    "static/media/Roboto-Medium.eot": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Medium.95a5d9131d3469c3ce5e.eot",
+    "static/media/Roboto-Medium.ttf": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.eot": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Regular.ffdb6afaa75355e57a82.eot",
+    "static/media/Roboto-Regular.ttf": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.eot": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Bold.57cefa6ff8c0ca7a891f.eot",
+    "static/media/Roboto-Bold.ttf": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Roboto-Medium.woff": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Medium.d7b36842eec814ca96c2.woff",
+    "static/media/Roboto-Bold.woff": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Bold.ad72f24fecee81055b62.woff",
+    "static/media/Roboto-Regular.woff": "/ra-8.3-hooks_context-authentication-front/static/media/Roboto-Regular.5de7b2aa0c98ccc93fc6.woff",
+    "index.html": "/ra-8.3-hooks_context-authentication-front/index.html",
+    "main.0d5352e6.css.map": "/ra-8.3-hooks_context-authentication-front/static/css/main.0d5352e6.css.map",
+    "main.4292b1d0.js.map": "/ra-8.3-hooks_context-authentication-front/static/js/main.4292b1d0.js.map",
+    "787.1ae3fd3c.chunk.js.map": "/ra-8.3-hooks_context-authentication-front/static/js/787.1ae3fd3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5352e6.css",
+    "static/js/main.4292b1d0.js"
+  ]
+}
